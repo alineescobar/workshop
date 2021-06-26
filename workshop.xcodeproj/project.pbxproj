@@ -14,6 +14,7 @@
 		16BB993C2687986C00AA66A7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 16BB993B2687986C00AA66A7 /* Preview Assets.xcassets */; };
 		16BB993F2687986C00AA66A7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 16BB993D2687986C00AA66A7 /* LaunchScreen.storyboard */; };
 		38737EC126879BDB00AECE4C /* LuizConflict.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38737EC026879BDB00AECE4C /* LuizConflict.swift */; };
+		16BB994726879B5300AA66A7 /* Aline.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16BB994626879B5300AA66A7 /* Aline.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		16BB993E2687986C00AA66A7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		16BB99402687986C00AA66A7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		38737EC026879BDB00AECE4C /* LuizConflict.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LuizConflict.swift; sourceTree = "<group>"; };
+		16BB994626879B5300AA66A7 /* Aline.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Aline.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 			isa = PBXGroup;
 			children = (
 				16BB99322687986500AA66A7 /* AppDelegate.swift */,
+				16BB994626879B5300AA66A7 /* Aline.swift */,
 				16BB99342687986500AA66A7 /* SceneDelegate.swift */,
 				16BB99362687986500AA66A7 /* ContentView.swift */,
 				16BB99382687986C00AA66A7 /* Assets.xcassets */,
@@ -152,6 +155,7 @@
 				16BB99352687986500AA66A7 /* SceneDelegate.swift in Sources */,
 				16BB99372687986500AA66A7 /* ContentView.swift in Sources */,
 				38737EC126879BDB00AECE4C /* LuizConflict.swift in Sources */,
+				16BB994726879B5300AA66A7 /* Aline.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
