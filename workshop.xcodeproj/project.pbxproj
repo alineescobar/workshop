@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		098B170D26879B7A006652B5 /* GabiView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 098B170C26879B7A006652B5 /* GabiView.swift */; };
 		16BB99332687986500AA66A7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16BB99322687986500AA66A7 /* AppDelegate.swift */; };
 		16BB99352687986500AA66A7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16BB99342687986500AA66A7 /* SceneDelegate.swift */; };
 		16BB99372687986500AA66A7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16BB99362687986500AA66A7 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		098B170C26879B7A006652B5 /* GabiView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GabiView.swift; sourceTree = "<group>"; };
 		16BB992F2687986500AA66A7 /* workshop.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = workshop.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		16BB99322687986500AA66A7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		16BB99342687986500AA66A7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				16BB99322687986500AA66A7 /* AppDelegate.swift */,
 				16BB99342687986500AA66A7 /* SceneDelegate.swift */,
 				16BB99362687986500AA66A7 /* ContentView.swift */,
+				098B170C26879B7A006652B5 /* GabiView.swift */,
 				16BB99382687986C00AA66A7 /* Assets.xcassets */,
 				16BB993D2687986C00AA66A7 /* LaunchScreen.storyboard */,
 				16BB99402687986C00AA66A7 /* Info.plist */,
@@ -148,6 +151,7 @@
 				16BB99332687986500AA66A7 /* AppDelegate.swift in Sources */,
 				16BB99352687986500AA66A7 /* SceneDelegate.swift in Sources */,
 				16BB99372687986500AA66A7 /* ContentView.swift in Sources */,
+				098B170D26879B7A006652B5 /* GabiView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
