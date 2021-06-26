@@ -13,6 +13,7 @@
 		16BB99392687986C00AA66A7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 16BB99382687986C00AA66A7 /* Assets.xcassets */; };
 		16BB993C2687986C00AA66A7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 16BB993B2687986C00AA66A7 /* Preview Assets.xcassets */; };
 		16BB993F2687986C00AA66A7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 16BB993D2687986C00AA66A7 /* LaunchScreen.storyboard */; };
+		16BB994726879B5300AA66A7 /* Aline.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16BB994626879B5300AA66A7 /* Aline.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		16BB993B2687986C00AA66A7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		16BB993E2687986C00AA66A7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		16BB99402687986C00AA66A7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		16BB994626879B5300AA66A7 /* Aline.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Aline.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				16BB99322687986500AA66A7 /* AppDelegate.swift */,
+				16BB994626879B5300AA66A7 /* Aline.swift */,
 				16BB99342687986500AA66A7 /* SceneDelegate.swift */,
 				16BB99362687986500AA66A7 /* ContentView.swift */,
 				16BB99382687986C00AA66A7 /* Assets.xcassets */,
@@ -148,6 +151,7 @@
 				16BB99332687986500AA66A7 /* AppDelegate.swift in Sources */,
 				16BB99352687986500AA66A7 /* SceneDelegate.swift in Sources */,
 				16BB99372687986500AA66A7 /* ContentView.swift in Sources */,
+				16BB994726879B5300AA66A7 /* Aline.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
